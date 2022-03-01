@@ -1,0 +1,9 @@
+
+public class estudiante 
+{
+    public String nombre;
+    public int NumCtl;
+    public String materia;
+    public int calificacion; 
+    public String estado;
+}
